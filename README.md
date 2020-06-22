@@ -13,6 +13,8 @@ Before compiling install "MIDI Library" and "Adafruit SSD1306" from the arduino 
 
 ## Setup
 
+![Alt text](resources/fritzin_sketch.jpg?raw=true "CVToMIDI fritzing sketch")
+
 ![Alt text](resources/arduino_CVtoMIDI.jpg?raw=true "CVToMIDI prototype")
 
 ## In action
