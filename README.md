@@ -17,5 +17,10 @@ Before compiling install "MIDI Library" and "Adafruit SSD1306" from the arduino 
 
 ![Alt text](resources/arduino_CVtoMIDI.jpg?raw=true "CVToMIDI prototype")
 
-## In action
-https://youtu.be/HBXVmIHtNC8 
+# Granular Theremin - in action
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/HBXVmIHtNC8/0.jpg)](http://www.youtube.com/watch?v=HBXVmIHtNC8)
+
+Wire a CV generator to the CV input jacks of the breadboard and the breadboards MIDI out to the MIDI in of a Synth like e.g. crusher-X (https://www.accsone.com/) - load the patch and the MIDI Map into crusher-X:
+
+![Alt text](crusher-X/crusherx.jpg?raw=true "accSone crusher-X")
